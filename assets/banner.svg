@@ -81,14 +81,14 @@
   </g>
 
   <g transform="translate(60, 50)">
-    <g transform="translate(0, 20)">
+    <g transform="translate(400, 20)">
       <rect width="280" height="32" rx="16" fill="#1E293B" stroke="#38BDF8" stroke-width="1" opacity="0.9"/>
       <circle cx="16" cy="16" r="5" fill="#10B981"/>
       <text x="32" y="21" class="sub-text" font-size="13" font-weight="600" fill="#38BDF8" letter-spacing="0.5">TREASURY &amp; LIQUIDITY 2026</text>
     </g>
-    <text x="0" y="110" class="title-text" font-size="44" fill="#FFFFFF" letter-spacing="-0.5">Awesome Treasury &amp;</text>
-    <text x="0" y="160" class="title-text" font-size="44" fill="url(#primaryGrad)" letter-spacing="-0.5">Liquidity Analytics</text>
-    <text x="0" y="208" class="sub-text" font-size="16" fill="#94A3B8">TMS Platforms &#8226; Liquidity Forecasting &#8226; Bank Connectivity &#8226; Working Capital AI</text>
+    <text x="400" y="110" class="title-text" font-size="44" fill="#FFFFFF" letter-spacing="-0.5">Awesome Treasury &amp;</text>
+    <text x="400" y="160" class="title-text" font-size="44" fill="url(#primaryGrad)" letter-spacing="-0.5">Liquidity Analytics</text>
+    <text x="400" y="208" class="sub-text" font-size="16" fill="#94A3B8">TMS Platforms &#8226; Liquidity Forecasting &#8226; Bank Connectivity &#8226; Working Capital AI</text>
     <g transform="translate(0, 250)">
       <rect x="0" y="0" width="145" height="34" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1"/>
       <text x="14" y="22" class="sub-text" font-size="13" fill="#E2E8F0">🏦 Cash Visibility</text>
