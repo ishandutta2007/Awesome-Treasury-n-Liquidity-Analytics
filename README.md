@@ -75,6 +75,7 @@ Whether you require an enterprise cloud Treasury Management System (TMS) or a se
 | **[Joiin](https://www.joiin.co/)** | **~$5M–$10M Valuation** (~$1.5M ARR, 40,000+ entities consolidated) | Financial consolidation and reporting platform aggregating multi-entity, multi-currency accounting data into consolidated cash flow and liquidity reports. | Starts at $24/month (1 entity plan, billed annually) / $29/month (billed monthly) | 14-day free trial (unlimited users, unlimited reports, multi-currency consolidation, and custom KPIs, no credit card required) |
 
 ---
+| **[DefiLPKit](https://defilpkit.com/)** | Indie project (no external valuation) | Free read-only liquidity analytics for concentrated-liquidity AMMs: fee APR, estimated net yield after impermanent loss and gas, and range testing for Uniswap v3/v4, PancakeSwap v3, Aerodrome Slipstream and Raydium CLMM. | Free | Full access without payment |
 
 ## 💻 Open-Source GitHub Projects
 
